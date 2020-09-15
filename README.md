@@ -10,4 +10,5 @@ Below is my workflow for HW1 outlining my process step by step:
 - Cleaned up an img stray tag
 - Updated repository
 - Inspect CSS file
+- Combined styling elements
 
