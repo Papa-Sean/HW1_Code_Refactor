@@ -11,4 +11,5 @@ Below is my workflow for HW1 outlining my process step by step:
 - Updated repository
 - Inspect CSS file
 - Combined styling elements
+- Added a more descriptive title to help SEO
 
